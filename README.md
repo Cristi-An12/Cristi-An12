@@ -28,7 +28,7 @@ Negro (UNRN). Strong academic background in object oriented programming, softwar
 databases and networks. Motivated to continue learning, improve technical skills and contribute to
 professional software development teams.
 <br>
-Tech Stack
+##Tech Stack
 <br>
 Computer Science: Data Structures & Algorithms, Operating Systems, Computer Networks, Software
 Engineering
